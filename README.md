@@ -40,6 +40,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 
+
+## Updated README.md 
+successfully installed mongodb compass 
+added queries.js which contains all queries for the assignment and a screenshot.jpeg for sample output.
 ## Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
